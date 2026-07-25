@@ -59,17 +59,11 @@ Dockerised environment to test AMSI/ETW bypasses and shellcode injection techniq
 
 ---
 
-## 📝 Blog & Talks
 
-- [My Blog](https://yourblog.com) – regular posts on red team tactics.  
-- Speaker at [BSides XYZ 2025] – “Evading EDR with .NET”.
 
 ---
 
-## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
 
 ---
 
