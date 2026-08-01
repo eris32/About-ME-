@@ -1,7 +1,7 @@
 # About-ME-
 Red Team Operator | Offensive Security Researcher | Adversary Emulation
 
-# 👋 Hey, I'm [ERIS]
+# 👋 Hey, I'm [Mohamad]
 
 **Red Team Operator | Offensive Security Researcher**
 
