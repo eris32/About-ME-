@@ -57,8 +57,26 @@ Dockerised environment to test AMSI/ETW bypasses and shellcode injection techniq
 - [TryHackMe – Wreath](link) – Network pivoting and C2 setup.  
 - [VulnHub – Sneaky](link) – Custom exploit development.
 
----
 
+## 🏅 TryHackMe Achievements
+
+- 🏆 35+ TryHackMe Badges
+- 🔥 30-Day Hacking Streak
+- 👑 Ruby League – 1st Place
+- 🛡️ Linux & Windows Privilege Escalation
+- 🌐 Web Application Security
+- 💉 SQL Injection & SQLMap
+- 🕷️ OWASP Top 10
+- 🔐 Burp Suite
+- 📦 Docker Security
+- 📡 Wireshark
+- 💥 Metasploit
+- 🧠 Active Directory
+- 🛠️ SOC & Log Analysis
+- 🐧 Linux Fundamentals
+- 🌍 Networking & Web Fundamentals
+
+🔗 **TryHackMe:** https://tryhackme.com/p/solcoteh
 
 
 ---
