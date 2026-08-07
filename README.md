@@ -4,7 +4,7 @@
 
 Red Team Operator | Offensive Security Researcher | Adversary Emulation
 
-# 👋 Hey, I'm [Mohamad]
+# 👋 Hey, I'm [Arshia]
 
 **Red Team Operator | Offensive Security Researcher**
 
