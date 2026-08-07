@@ -1,4 +1,7 @@
 # About-ME-
+<img width="578" height="434" alt="Screenshot_2026-08-07_17-26-03" src="https://github.com/user-attachments/assets/c2168a17-a84e-4bb9-ad74-6df57dd85c19" />
+
+
 Red Team Operator | Offensive Security Researcher | Adversary Emulation
 
 # 👋 Hey, I'm [Mohamad]
