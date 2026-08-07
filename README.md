@@ -60,23 +60,30 @@ Dockerised environment to test AMSI/ETW bypasses and shellcode injection techniq
 
 ## 🏅 TryHackMe Achievements
 
-- 🏆 35+ TryHackMe Badges
-- 🔥 30-Day Hacking Streak
-- 👑 Ruby League – 1st Place
-- 🛡️ Linux & Windows Privilege Escalation
-- 🌐 Web Application Security
-- 💉 SQL Injection & SQLMap
-- 🕷️ OWASP Top 10
-- 🔐 Burp Suite
-- 📦 Docker Security
-- 📡 Wireshark
-- 💥 Metasploit
-- 🧠 Active Directory
-- 🛠️ SOC & Log Analysis
-- 🐧 Linux Fundamentals
-- 🌍 Networking & Web Fundamentals
+## 🏆 TryHackMe Badges
 
-🔗 **TryHackMe:** https://tryhackme.com/p/solcoteh
+| Badge | Description | Rarity |
+|-------|-------------|--------|
+| **First Four** | Completing four rooms in your first week of joining! | 🟢 Common (22%) |
+| **Pentesting Principles** | Completing the 'Introduction to Pentesting' module | 🟢 Common (13.3%) |
+| **Cyber Ready** | Understanding impact of training on teams | 🔵 Rare (3.4%) |
+| **Networking Nerd** | Completing the 'Network Fundamentals' module | 🟢 Common (15.5%) |
+| **cat linux.txt** | Being competent in Linux | 🟢 Common (28.2%) |
+| **Linux PrivEsc** | Mastering Linux Privilege Escalation | 🔵 Rare (3%) |
+| **Hash Cracker** | Cracking all those hashes | 🔵 Rare (5.3%) |
+| **Metasploitable** | Contains the knowledge to use Metasploit | 🔵 Rare (7.6%) |
+| **Blue** | Hacking into Windows via EternalBlue | 🔵 Rare (8.4%) |
+| **Ice** | Exploiting Windows via a media server | 🔵 Rare (1.9%) |
+| **Mr. Robot** | Completing the Mr. Robot room | 🔵 Rare (3.3%) |
+| **Burp'ed** | Completing the Burp Suite module | 🔵 Rare (5.6%) |
+| **Webbed** | Understands how the world wide web works | 🟢 Common (21.4%) |
+| **World Wide Web** | Completing the 'How The Web Works' module | 🟢 Common (17.1%) |
+| **7 Day Streak** | Achieving a 7 day hacking streak | 🟢 Common (17.2%) |
+| **Intro to Web Hacking** | Completing the 'Introduction to Web Hacking' module | 🔵 Rare (6.1%) |
+| **System Sniffer** | Completed the File Path traversal room | 🟣 Epic (0.4%) |
+| **30 Day Streak** | Hacking for 30 days solid | 🔵 Rare (—) |
+
+🔗 **TryHackMe:** https://tryhackme.com/p/Arshia32
 
 
 ---
