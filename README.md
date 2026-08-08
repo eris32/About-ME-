@@ -1,4 +1,4 @@
-
+<img width="1023" height="1328" alt="Screenshot_20260808_083059_Chrome" src="https://github.com/user-attachments/assets/48f7e9c0-ea75-4577-bdd9-19021b85eaf4" />
 
 
 Red Team Operator | Offensive Security Researcher | Adversary Emulation
