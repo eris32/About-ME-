@@ -61,12 +61,16 @@ Dockerised environment to test AMSI/ETW bypasses and shellcode injection techniq
 <img width="660" height="555" alt="thmb1" src="https://github.com/user-attachments/assets/6450b5c9-42d2-48f8-81cf-9a2e9a847e82" />
 
 
-![Uploading thmb3.png…]()
+
 <img width="661" height="557" alt="thmb4" src="https://github.com/user-attachments/assets/dc5b01b4-36bc-4fa4-bb69-230b226a4f43" />
 <img width="670" height="284" alt="thmb5" src="https://github.com/user-attachments/assets/9cd8300c-cec3-4e07-8819-512ae1269973" />
 
 
 
+<img width="676" height="569" alt="thmb3" src="https://github.com/user-attachments/assets/e141e9e2-0337-4418-bf62-1898a8d53fa3" />
+
+
+<img width="660" height="555" alt="thmb1" src="https://github.com/user-attachments/assets/f5546ac3-8f47-4666-b80a-c3e3dcfb3aa5" />
 
 
 
