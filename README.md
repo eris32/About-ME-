@@ -4,13 +4,7 @@
 Red Team Operator | Offensive Security Researcher | Adversary Emulation
 
 # 👋 Hey, I'm [Arshia]
-
-**Red Team Operator | Offensive Security Researcher**
-
-I break things to make them stronger. Passionate about AD exploitation, covert C2, and evading modern EDRs.  
-Currently sharpening my skills in [specific focus].
-
----
+--
 
 ## 🛠️ Arsenal
 
@@ -65,7 +59,8 @@ Dockerised environment to test AMSI/ETW bypasses and shellcode injection techniq
 ## 🏆 TryHackMe Badges
 
 
-🔗 **TryHackMe:** https://tryhackme.com/p/Arshia32
+🔗 **TryHackMe:** 
+https://tryhackme.com/p/Arshia0x0
 
 
 
