@@ -76,7 +76,7 @@ Dockerised environment to test AMSI/ETW bypasses and shellcode injection techniq
 
 
 🔗 **TryHackMe:** 
-https://tryhackme.com/p/Arshia0x0
+https://tryhackme.com/p/M.Askari
 
 
 
