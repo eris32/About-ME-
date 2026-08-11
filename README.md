@@ -4,7 +4,7 @@
 
 Red Team Operator | Offensive Security Researcher | Adversary Emulation
 
-# 👋 Hey, I'm [Arshia]
+# 👋 Hey, I'm [Mohamad]
 --
 
 ## 🛠️ Arsenal
