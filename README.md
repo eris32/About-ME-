@@ -42,7 +42,7 @@ My approach combines **offensive testing** (penetration testing, vulnerability a
 
 ## Professional Experience
 
-**Senior Security Engineer** – [Current/Previous Organisation]  
+**Senior Security Engineer** – [ *********** Organisation]  
 *2020 – Present*
 
 - **Daily security monitoring** of 50+ web applications and APIs using Splunk ES, reducing mean time to detect (MTTD) by 40%.
