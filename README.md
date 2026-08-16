@@ -10,7 +10,7 @@
 
 ## Professional Summary
 
-Senior Cybersecurity Engineer with **7+ years** of hands‑on experience in **web application security**, **SIEM deployment**, **WAF management**, and **network‑level threat analysis**. I specialise in designing, implementing, and continuously monitoring the security posture of internal and external web applications, APIs, and underlying infrastructure.
+ Cybersecurity Engineer with **7+ years** of hands‑on experience in **web application security**, **SIEM deployment**, **WAF management**, and **network‑level threat analysis**. I specialise in designing, implementing, and continuously monitoring the security posture of internal and external web applications, APIs, and underlying infrastructure.
 
 My approach combines **offensive testing** (penetration testing, vulnerability assessment) with **defensive operations** (log analysis, alert tuning, incident response). I translate complex technical risks into clear, actionable management reports – ensuring that security decisions are driven by data, not fear.
 
