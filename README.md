@@ -98,3 +98,23 @@ Although disclosed in late 2021, **many Iranian government and banking websites*
 ---
 
 <p align="center">Built with precision – for defending what matters, at scale.</p>
+
+
+
+TryHackMe Badges 2025-2026
+
+
+
+
+
+<img width="317" height="391" alt="1stplace" src="https://github.com/user-attachments/assets/c93d1880-eb01-42fa-9970-af004d3c488f" />
+
+
+<img width="435" height="202" alt="burp" src="https://github.com/user-attachments/assets/8867f481-5183-4e20-8ce7-16b67416d357" />
+<img width="899" height="439" alt="6" src="https://github.com/user-attachments/assets/677c13c0-be86-4853-942a-4ca7bf087356" />
+<img width="997" height="413" alt="5" src="https://github.com/user-attachments/assets/07242b39-5445-4209-9bfe-bcd573e1db8c" />
+<img width="973" height="349" alt="4" src="https://github.com/user-attachments/assets/17efd2ca-b2b7-46fd-8d78-a2a58b2b9f1e" />
+<img width="951" height="369" alt="3" src="https://github.com/user-attachments/assets/b69d1e5d-21e3-4590-9712-6838acfc3855" />
+<img width="507" height="187" alt="2" src="https://github.com/user-attachments/assets/661a42be-5b58-4a76-ac77-9d01e392f691" />
+<img width="463" height="189" alt="1" src="https://github.com/user-attachments/assets/a510d04d-b8f4-4f24-95a5-85cdcab69fb2" />
+
