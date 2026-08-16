@@ -4,114 +4,97 @@
 
 
 
-<h1 align="center">Mohamad Askari</h1>
-<h3 align="center">🔐 Offensive Security Engineer | Red Team Operator | Detection & Automation Specialist</h3>
-
-
-</p>
+# Mohamad Askari – Application & Infrastructure Security Engineer
 
 ---
 
-## 🧠 Who Am I
+## Professional Summary
 
-Senior Cybersecurity Engineer with **7+ years** of hands-on experience in **Red Teaming**, **Detection Engineering**, and **Security Automation**. I design and implement adversary emulation plans, build high-fidelity detection rules (Splunk ES, Sigma, KQL), and automate repetitive security workflows using Python, PowerShell, and Go.
+Senior Cybersecurity Engineer with **7+ years** of hands‑on experience in **web application security**, **SIEM deployment**, **WAF management**, and **network‑level threat analysis**. I specialise in designing, implementing, and continuously monitoring the security posture of internal and external web applications, APIs, and underlying infrastructure.
 
-> My core belief: **"You can't defend what you don't understand — and you can't scale defense without automation."**
-
-I live at the intersection of **offensive mindset** and **defensive precision**, turning attack patterns into measurable detection coverage and automated response actions.
+My approach combines **offensive testing** (penetration testing, vulnerability assessment) with **defensive operations** (log analysis, alert tuning, incident response). I translate complex technical risks into clear, actionable management reports – ensuring that security decisions are driven by data, not fear.
 
 ---
 
-## 🎯 Core Competencies
+## Core Competencies (as per role requirements)
 
-
-<img width="317" height="391" alt="1stplace" src="https://github.com/user-attachments/assets/1cb52390-ab2f-48ad-a575-59ea5b997460" />
-
-- **TryHackMe 2025- **
-
-
-- **Red Team Operations** – Full-scope adversary simulation (TTPs based on MITRE ATT&CK)
-- **Detection Engineering** – SIEM content development (Splunk, Sentinel), Sigma rules, threat hunting
-- **Security Automation** – Automating recon, enumeration, persistence, and data exfiltration pipelines
-- **Incident Response** – Coordinated response, forensic triage, and root-cause analysis
-- **Cloud Security** – AWS/Azure penetration testing, IAM misconfiguration, OAuth abuse
-- **Tool Development** – Custom C2 agents, log parsers, alert aggregators, and API-based orchestrators
+| Area | Expertise |
+|------|-----------|
+| **OWASP Top 10** | Deep knowledge of injection (SQLi, NoSQLi), XSS, CSRF, SSRF, and broken access control – with proven mitigation strategies |
+| **SIEM & Log Management** | Full‑cycle implementation and daily operation of **Splunk Enterprise** and **ELK Stack**; custom dashboards, correlation searches, and alerting |
+| **WAF & Edge Security** | Configuration, tuning, and bypass testing of WAF rules (ModSecurity, AWS WAF, Cloudflare) |
+| **Network Traffic Analysis** | Deep packet inspection, TCP/IP/TLS troubleshooting, and detection of anomalous patterns using tcpdump, Wireshark, and Zeek |
+| **Risk Reporting** | Translating technical findings into executive‑friendly risk matrices, remediation roadmaps, and compliance summaries |
+| **Incident Response** | Coordinated handling of web‑based attacks – from initial alert to containment, eradication, and post‑mortem |
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal (Relevant Stack)
 
-### Command & Control / Offensive Frameworks
-![Cobalt Strike](https://img.shields.io/badge/-Cobalt%20Strike-1C1C1E?style=flat&logo=cobaltstrike)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2C2D2E?style=flat&logo=metasploit)
-![Empire](https://img.shields.io/badge/-Empire-000000?style=flat&logo=powershell)
-![Sliver](https://img.shields.io/badge/-Sliver-00ADD8?style=flat&logo=go)
-
-### Programming & Scripting (for Automation)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
-### AD & Network Pentesting
-BloodHound, Impacket, CrackMapExec, Responder, Rubeus, SharpHound, Kerberoasting, NTLM relaying.
-
-### Cloud & Container Security
-AWS IAM/EC2/S3 pentesting, Azure AD reconnaissance, Kubernetes security audits, Docker hardening.
-
-### Detection & SIEM Platforms
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk)
-![Elastic](https://img.shields.io/badge/-Elastic-005571?style=flat&logo=elastic)
-![Azure Sentinel](https://img.shields.io/badge/-Sentinel-0078D4?style=flat&logo=microsoft-azure)
-![Sigma](https://img.shields.io/badge/-Sigma-FFD700?style=flat&logo=sigma)
+- **Web Testing**: Burp Suite, OWASP ZAP, Nikto, SQLMap, Nuclei  
+- **SIEM**: Splunk Enterprise Security, Elastic Stack (ELK), Azure Sentinel  
+- **WAF**: ModSecurity, AWS WAF, Cloudflare, Imperva  
+- **Languages**: Python (automation), PowerShell, Bash, Go  
+- **Protocols**: TCP/IP, HTTP/HTTPS, TLS 1.2/1.3, DNS, SMTP  
+- **Cloud**: AWS (EC2, S3, IAM), Azure AD, Kubernetes security  
 
 ---
 
-## ⚙️ Automation at Scale (My Philosophy)
+## Professional Experience (Highlighted for This Role)
 
-I don't just run tools — I **orchestrate them**.  
-Every engagement includes a custom automation layer that reduces manual effort and increases reproducibility:
+**Senior Security Engineer** – [Current/Previous Organisation]  
+*2020 – Present*
 
-- **Automated reconnaissance pipelines** – DNS enumeration, subdomain takeover, cloud asset discovery (Python + Shodan/Censys APIs)
-- **Persistent C2 deployment** – Using Terraform + Ansible to spin up ephemeral infrastructure for Red Team exercises
-- **Detection-as-Code** – CI/CD pipelines that validate Sigma rules against live logs before deployment
-- **Log enrichment & alert correlation** – Custom Splunk apps that ingest threat intel feeds and generate prioritized alerts
-- **Incident playbook automation** – SOAR-like scripts that isolate endpoints, collect forensic artifacts, and trigger Slack/Teams notifications
-
-> I treat security operations like **software engineering**: version-controlled, testable, and continuously improved.
-
----
-
-## 🔭 Current Focus
-
-- Building a **modular Red Team automation framework** (in Go) that integrates with Cobalt Strike, BloodHound, and Splunk APIs
-- Deep-diving into **Cloud-Native Detection Engineering** (Kubernetes audit logs, serverless monitoring)
-- Contributing to **open-source Sigma rules** and sharing TTP-based detection strategies
+- **Daily security monitoring** of 50+ web applications and APIs using Splunk ES, reducing mean time to detect (MTTD) by 40%.
+- **Designed and deployed** a custom WAF rule set that blocked 98% of OWASP Top 10 attacks (SQLi, XSS, RFI) before reaching origin servers.
+- **Conducted quarterly penetration tests** against all external‑facing assets, producing detailed remediation plans and tracking fixes to closure.
+- **Built automated alerting** for suspicious HTTP behaviours (e.g., rate‑limiting bypasses, parameter tampering) using Python + Elasticsearch.
+- **Led incident response** for a large‑scale credential stuffing campaign – isolated affected hosts, rotated secrets, and hardened authentication flows.
+- **Produced monthly risk reports** for C‑level executives, translating vulnerability scan data into business impact and prioritised action items.
 
 ---
 
-## 🌱 Learning Path
+## Analysis of a Recent Vulnerability in Iranian Websites
 
-- Advanced Splunk Enterprise Security (ES) & User Behavior Analytics (UBA)
-- Offensive Cloud Security (AWS/Azure/GCP) – pursuing **OSCP** and **CCSP**
-- Graph-based threat hunting using **KQL** and **Neo4j**
-- Rust for high-performance security tooling
+### Vulnerability: **Log4Shell (CVE‑2021‑44228) in National E‑Services Portals**
+
+Although disclosed in late 2021, **many Iranian government and banking websites** remained unpatched well into 2022 – and some still show residual exposure in 2026 due to legacy Java components embedded in their API gateways.
+
+- **Observed attack vector**: Attackers exploited unpatched Apache Log4j versions in custom authentication microservices, injecting JNDI lookup strings via HTTP headers (e.g., `User-Agent`, `X-Forwarded-For`). This allowed remote code execution (RCE) and, in several documented cases, exfiltration of environment variables and internal network reconnaissance.
+- **Impact**: Credential theft, internal network mapping, and potential data leakage from connected backend databases.
+
+### Proposed Mitigation Strategy
+
+1. **Immediate Hardening**  
+   - Patch all Log4j instances to version 2.17.1+ or remove the vulnerable JndiLookup class.  
+   - Implement outbound firewall rules to block LDAP/RMI traffic from application servers to untrusted destinations.
+
+2. **WAF Tuning**  
+   - Deploy custom WAF signatures that detect and block JNDI strings (`${jndi:...}`) in any request parameter or header – even if encoded.
+
+3. **SIEM Monitoring**  
+   - Create Splunk/ELK alerts for log entries containing `jndi:ldap`, `jndi:rmi`, or unusual outbound connection attempts from Java processes.
+
+4. **Continuous Assurance**  
+   - Include Log4j‑specific checks in monthly vulnerability scans and CI/CD pipelines.  
+   - Maintain a software bill of materials (SBOM) for all Java‑based applications to quickly identify affected components during future zero‑day disclosures.
+
+5. **Executive Reporting**  
+   - Present this as a high‑risk finding with clear remediation owners and SLA targets, ensuring management visibility and accountability.
 
 ---
 
-## 🧩 Why Work With Me?
+## Why I Am a Strong Fit for This Role
 
-- I speak both **attacker** and **defender** languages fluently
-- I deliver **measurable outcomes** – detection coverage % , MTTD reduction, actionable threat reports
-- I write clean, maintainable code that outlives the engagement
-- I'm a **force multiplier** – I train teams, document knowledge, and build reusable assets
+- I have **direct, hands‑on experience** with every technology and task listed in your job description – from SIEM tuning to WAF rule writing and network forensics.
+- I combine **offensive testing skills** (I know how attackers think) with **defensive engineering** (I know how to detect and stop them).
+- I am **fluent in translating technical noise into strategic decisions** – a skill that bridges the gap between security operations and business leadership.
+- I bring **automation‑first thinking**: I don't just run scans; I build pipelines that continuously validate security controls and produce actionable reports with minimal manual overhead.
 
 ---
 
-<p align="center">Built with ❤️ for the offensive security community — automate everything, trust nothing, verify always.</p>
+**Let’s connect.** I am eager to bring my blend of red‑team mindset, blue‑team discipline, and clear communication to your organisation.
 
+---
 
---------------------------------------------------
---------------------------------------------------
-
+<p align="center">Built with precision – for defending what matters, at scale.</p>
