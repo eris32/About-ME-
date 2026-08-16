@@ -4,8 +4,8 @@
 
 
 
-# Mohamad Askari – Application & Infrastructure Security Engineer
-
+# Mohamad Askari – Application & Infrastructure Security Engineer | 
+<h3 align="center">🔐 Offensive Security Engineer | Red Team Operator | Detection & Automation Specialist</h3>
 ---
 
 ## Professional Summary
