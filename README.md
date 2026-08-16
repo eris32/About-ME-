@@ -115,6 +115,5 @@ TryHackMe Badges 2025-2026
 <img width="997" height="413" alt="5" src="https://github.com/user-attachments/assets/07242b39-5445-4209-9bfe-bcd573e1db8c" />
 <img width="973" height="349" alt="4" src="https://github.com/user-attachments/assets/17efd2ca-b2b7-46fd-8d78-a2a58b2b9f1e" />
 <img width="951" height="369" alt="3" src="https://github.com/user-attachments/assets/b69d1e5d-21e3-4590-9712-6838acfc3855" />
-<img width="507" height="187" alt="2" src="https://github.com/user-attachments/assets/661a42be-5b58-4a76-ac77-9d01e392f691" />
-<img width="463" height="189" alt="1" src="https://github.com/user-attachments/assets/a510d04d-b8f4-4f24-95a5-85cdcab69fb2" />
+
 
