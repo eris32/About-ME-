@@ -1,120 +1,108 @@
-<img width="1007" height="334" alt="mohamad" src="https://github.com/user-attachments/assets/db6e2de3-00a1-4052-bcca-65aa175d8ac3" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db6e2de3-00a1-4052-bcca-65aa175d8ac3" width="1007" height="334" alt="mohamad" />
+</p>
 
+<h1 align="center">محمد عسکری</h1>
+<h3 align="center">🔐 مهندس امنیت تهاجمی | اپراتور تیم قرمز | متخصص دیتکشن و اتوماسیون</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="لینکدین"></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="توییتر"></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ایمیل"></a>
+  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="وبلاگ"></a>
+</p>
 
+---
 
-<h3 align="center">Cybersecurity Engineer | Red Team & Detection Engineering</h3>
+## 🧠 درباره‌ی من
 
-# 👋 Hey, I'm [Mohamad]
---
+مهندس ارشد امنیت سایبری با بیش از **۷ سال** تجربه‌ی عملی در **تیم‌های قرمز (Red Teaming)**، **مهندسی دیتکشن** و **اتوماسیون امنیتی**. من برنامه‌های شبیه‌سازی دشمن را طراحی و پیاده‌سازی می‌کنم، قوانین دیتکشن با دقت بالا (Splunk ES، Sigma، KQL) می‌سازم و گردش‌کارهای تکراری امنیتی را با استفاده از Python، PowerShell و Go خودکار می‌کنم.
 
-## 🛠️ Arsenal
+> باور اصلی من: **«نمی‌توانی از چیزی دفاع کنی که نمی‌شناسی — و بدون اتوماسیون، دفاع را نمی‌توانی مقیاس‌پذیر کنی.»**
 
-**C2 & Frameworks**  
-![Cobalt Strike](https://img.shields.io/badge/-Cobalt%20Strike-1C1C1E?style=flat&logo=cobaltstrike) 
+من در نقطه‌ی تلاقی **ذهنیت تهاجمی** و **دقت تدافعی** فعالیت می‌کنم؛ الگوهای حمله را به پوشش دیتکشن قابل اندازه‌گیری و اقدامات پاسخ‌دهی خودکار تبدیل می‌کنم.
+
+---
+
+## 🎯 شایستگی‌های کلیدی
+
+- **عملیات تیم قرمز** – شبیه‌سازی دشمن در مقیاس کامل (بر اساس TTPهای MITRE ATT&CK)
+- **مهندسی دیتکشن** – تولید محتوای SIEM (Splunk، Sentinel)، قوانین Sigma، شکار تهدید
+- **اتوماسیون امنیتی** – خودکارسازی شناسایی، شمارش، پایداری و خطوط لوله‌ی خروج داده
+- **پاسخ به حادثه** – پاسخ هماهنگ، سه‌بندی قانونی و تحلیل ریشه‌ای
+- **امنیت ابری** – تست نفوذ AWS/Azure، پیکربندی اشتباه IAM، سوءاستفاده از OAuth
+- **توسعه‌ی ابزار** – عوامل C2 سفارشی، پارسرهای لاگ، جمع‌کننده‌های هشدار و هماهنگ‌کننده‌های مبتنی بر API
+
+---
+
+## 🛠️ زرادخانه‌ی فنی
+
+### فرمان‌دهی و کنترل / چارچوب‌های تهاجمی
+![Cobalt Strike](https://img.shields.io/badge/-Cobalt%20Strike-1C1C1E?style=flat&logo=cobaltstrike)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-2C2D2E?style=flat&logo=metasploit)
+![Empire](https://img.shields.io/badge/-Empire-000000?style=flat&logo=powershell)
+![Sliver](https://img.shields.io/badge/-Sliver-00ADD8?style=flat&logo=go)
 
-**Languages**  
+### برنامه‌نویسی و اسکریپت‌نویسی (برای اتوماسیون)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-**AD & Network**  
-BloodHound, Impacket, CrackMapExec, Responder, Rubeus, SharpHound, Kerberoasting tools.
+### اکتیو دایرکتوری و شبکه
+BloodHound، Impacket، CrackMapExec، Responder، Rubeus، SharpHound، Kerberoasting، حمله‌های NTLM relaying
 
-**Cloud**  
-AWS Pentesting, Azure AD, OAuth abuse.
+### امنیت ابر و کانتینر
+تست نفوذ AWS IAM/EC2/S3، شناسایی Azure AD، ممیزی امنیتی Kubernetes، سخت‌سازی Docker
 
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300/0d1117/58a6ff?text=mohamad askari+%7C+Security+Engineer" alt="banner" width="100%" />
-</p>
-
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"></a>
-</p>
+### پلتفرم‌های دیتکشن و SIEM
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk)
+![Elastic](https://img.shields.io/badge/-Elastic-005571?style=flat&logo=elastic)
+![Azure Sentinel](https://img.shields.io/badge/-Sentinel-0078D4?style=flat&logo=microsoft-azure)
+![Sigma](https://img.shields.io/badge/-Sigma-FFD700?style=flat&logo=sigma)
 
 ---
 
-## 🧠 درباره من
+## ⚙️ اتوماسیون در مقیاس (فلسفه‌ی من)
 
-متخصص امنیت سایبری با تجربه در **Offensive Security**، **Red Teaming**، **Detection Engineering** و **Threat Hunting**. تمرکز اصلی من روی شناسایی تهدیدات پیشرفته، ساخت دیتکشن‌های مؤثر در SIEM (به‌ویژه Splunk)، تحلیل لاگ‌های حجیم و پاسخ به رخداد است. عاشق یادگیری مداوم و به‌اشتراک‌گذاری دانش فنی با جامعه‌ی امنیت هستم.
+من فقط ابزارها را اجرا نمی‌کنم — بلکه **آنها را هماهنگ می‌کنم**.  
+در هر پروژه، یک لایه‌ی اتوماسیون سفارشی طراحی می‌کنم که کار دستی را کاهش داده و تکرارپذیری را افزایش می‌دهد:
 
-- 🔭 در حال حاضر روی: **[پروژه فعلی یا حوزه‌ی مطالعاتی]**
-- 🌱 در حال یادگیری: **[مهارت/تکنولوژی جدید]**
-- 👯 علاقه‌مند به همکاری در: **[زمینه‌های همکاری، مثلاً Threat Research یا CTI]**
-- 💬 می‌تونید از من درباره: **Splunk، Red Team، Incident Response، Web Security** بپرسید.
+- **خطوط لوله‌ی شناسایی خودکار** – شمارش DNS، تصاحب زیردامنه، کشف دارایی‌های ابری (با استفاده از Python + APIهای Shodan/Censys)
+- **استقرار پایدار C2** – استفاده از Terraform و Ansible برای راه‌اندازی زیرساخت‌های موقتی برای تمرینات تیم قرمز
+- **دیتکشن به‌عنوان کد** – لوله‌های CI/CD که قوانین Sigma را قبل از استقرار در برابر لاگ‌های زنده اعتبارسنجی می‌کنند
+- **غنی‌سازی لاگ و همبستگی هشدارها** – اپلیکیشن‌های Splunk سفارشی که خوراک‌های تهدید را دریافت و هشدارهای اولویت‌دار تولید می‌کنند
+- **خودکارسازی کتابچه‌های پاسخ به حادثه** – اسکریپت‌های شبه SOAR که سیستم‌های آلوده را ایزوله، آثار قانونی را جمع‌آوری و اعلان‌های Slack/Teams ارسال می‌کنند
 
----
-
-## 🎯 تخصص‌ها
-
-- Offensive Security & Penetration Testing
-- Red Team Operations & Adversary Simulation
-- Detection Engineering & SIEM (Splunk)
-- Threat Hunting & Log Analysis
-- Incident Response & Digital Forensics (مقدماتی)
-- Web Application Security (OWASP)
-- Linux Administration & Hardening
+> من عملیات امنیتی را مانند **مهندسی نرم‌افزار** می‌دانم: **نسخه‌گذاری شده، قابل‌آزمایش و دائماً در حال بهبود**.
 
 ---
 
-## 🛠️ مهارت‌های فنی
+## 🔭 تمرکز فعلی
 
-### 🧰 ابزارها و پلتفرم‌ها
-
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-
-### 💻 زبان‌ها و اسکریپت‌نویسی
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### 🖥️ سیستم‌عامل‌ها
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-
-
-## 🗺️ نقشه راه یادگیری فعلی
-
-- [ ] تکمیل دوره‌ی پیشرفته‌ی Splunk (ES, UBA)
-- [ ] یادگیری بیشتر در زمینه‌ی Cloud Security (AWS/Azure)
-- [ ] شرکت در CTFهای بین‌المللی و تمرین Red Team
-- [ ] توسعه‌ی ابزارهای شخصی برای Threat Intelligence
+- ساخت **چارچوب اتوماسیون تیم قرمز ماژولار** (به زبان Go) که با Cobalt Strike، BloodHound و APIهای Splunk یکپارچه می‌شود
+- غوطه‌وری عمیق در **مهندسی دیتکشن بومی ابر** (لاگ‌های ممیزی Kubernetes، نظارت بر سرورلس)
+- مشارکت در **قوانین Sigma متن‌باز** و به‌اشتراک‌گذاری استراتژی‌های دیتکشن مبتنی بر TTP
 
 ---
 
-## 💼 فلسفه کاری
+## 🌱 مسیر یادگیری
 
-من معتقدم امنیت یک فرآیند مستمر است، نه یک محصول. رویکرد من ترکیبی از **ذهنیت مهاجم** و **دقت مدافع** است: برای طراحی دفاع مؤثر، باید طرز فکر نفوذگر را شناخت. در هر پروژه تلاش می‌کنم بین امنیت، کارایی و تجربه‌ی کاربری تعادل برقرار کنم.
+- پیشرفته‌ی Splunk Enterprise Security (ES) و User Behavior Analytics (UBA)
+- امنیت تهاجمی ابر (AWS/Azure/GCP) – در مسیر اخذ **OSCP** و **CCSP**
+- شکار تهدید مبتنی بر گراف با استفاده از **KQL** و **Neo4j**
+- زبان Rust برای ساخت ابزارهای امنیتی با کارایی بالا
 
 ---
+
+## 🧩 چرا با من همکاری کنید؟
+
+- به هر دو زبان **مهاجم** و **مدافع** مسلط هستم
+- **نتایج قابل‌اندازه‌گیری** ارائه می‌دهم – درصد پوشش دیتکشن، کاهش MTTD، گزارش‌های تهدید عملیاتی
+- کد تمیز و قابل‌نگهداری می‌نویسم که فراتر از مدت پروژه ماندگار است
+- **ضریب نیروی مضاعف** هستم – به تیم‌ها آموزش می‌دهم، مستندات تهیه می‌کنم و دارایی‌های قابل‌استفاده‌ی مجدد می‌سازم
+
 ---
 
-<p align="center">ساخته شده با ❤️ و تعهد به یادگیری مداوم</p>
-
-
-
-
-
-
-
-
+<p align="center">ساخته شده با ❤️ برای جامعه‌ی امنیت تهاجمی — همه‌چیز را خودکار کن، به هیچ‌چیز اعتماد نکن، همیشه تأیید کن.</p>
