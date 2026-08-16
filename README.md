@@ -16,7 +16,7 @@ My approach combines **offensive testing** (penetration testing, vulnerability a
 
 ---
 
-## Core Competencies (as per role requirements)
+## Core Competencies 
 
 | Area | Expertise |
 |------|-----------|
@@ -40,7 +40,7 @@ My approach combines **offensive testing** (penetration testing, vulnerability a
 
 ---
 
-## Professional Experience (Highlighted for This Role)
+## Professional Experience
 
 **Senior Security Engineer** – [Current/Previous Organisation]  
 *2020 – Present*
