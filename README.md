@@ -2,9 +2,7 @@
   <img src="https://github.com/user-attachments/assets/db6e2de3-00a1-4052-bcca-65aa175d8ac3" width="1007" height="334" alt="mohamad" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/db6e2de3-00a1-4052-bcca-65aa175d8ac3" width="1007" height="334" alt="mohamad" />
-</p>
+
 
 <h1 align="center">Mohamad Askari</h1>
 <h3 align="center">🔐 Offensive Security Engineer | Red Team Operator | Detection & Automation Specialist</h3>
@@ -29,6 +27,10 @@ I live at the intersection of **offensive mindset** and **defensive precision**,
 ---
 
 ## 🎯 Core Competencies
+
+
+<img width="317" height="391" alt="1stplace" src="https://github.com/user-attachments/assets/1cb52390-ab2f-48ad-a575-59ea5b997460" />
+
 
 - **Red Team Operations** – Full-scope adversary simulation (TTPs based on MITRE ATT&CK)
 - **Detection Engineering** – SIEM content development (Splunk, Sentinel), Sigma rules, threat hunting
@@ -115,6 +117,10 @@ Every engagement includes a custom automation layer that reduces manual effort a
 <h1 align="center">  ❤️ترجمه به زبان مادری </h1>
 --------------------------------------------------
 --------------------------------------------------
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db6e2de3-00a1-4052-bcca-65aa175d8ac3" width="1007" height="334" alt="mohamad" />
+</p>
+
 
 <h1 align="center">محمد عسکری</h1>
 <h3 align="center">🔐 مهندس امنیت تهاجمی | اپراتور تیم قرمز | متخصص دیتکشن و اتوماسیون</h3>
@@ -139,6 +145,10 @@ Every engagement includes a custom automation layer that reduces manual effort a
 ---
 
 ## 🎯 شایستگی‌های کلیدی
+
+
+<img width="317" height="391" alt="1stplace" src="https://github.com/user-attachments/assets/1cb52390-ab2f-48ad-a575-59ea5b997460" />
+
 
 - **عملیات تیم قرمز** – شبیه‌سازی دشمن در مقیاس کامل (بر اساس TTPهای MITRE ATT&CK)
 - **مهندسی دیتکشن** – تولید محتوای SIEM (Splunk، Sentinel)، قوانین Sigma، شکار تهدید
@@ -220,3 +230,5 @@ BloodHound، Impacket، CrackMapExec، Responder، Rubeus، SharpHound، Kerbero
 ---
 
 <p align="center">ساخته شده با ❤️ برای جامعه‌ی امنیت تهاجمی — همه‌چیز را خودکار کن، به هیچ‌چیز اعتماد نکن، همیشه تأیید کن.</p>
+
+
