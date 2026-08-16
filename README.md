@@ -91,61 +91,7 @@ AWS Pentesting, Azure AD, OAuth abuse.
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
----
 
-## 📁 پروژه‌های برگزیده
-
-### 🔹 [Project Name 1]
-**توضیح کوتاه:** یک آزمایشگاه تشخیص نفوذ مبتنی بر Splunk برای شبیه‌سازی حملات و ایجاد alert.
-**نتایج یادگیری:**
-- طراحی و پیاده‌سازی correlation search ها
-- کار با داده‌های ویندوز و لینوکس در Splunk
-- کاهش false positive با tuning
-
-### 🔹 [Project Name 2]
-**توضیح کوتاه:** اسکریپت‌های اتوماسیون برای شکار تهدید (Threat Hunting) روی لاگ‌های فایروال.
-**نتایج یادگیری:**
-- تحلیل الگوهای مشکوک در ترافیک شبکه
-- استفاده از Python و Pandas برای پردازش لاگ
-- مستندسازی یافته‌ها به فرمت گزارش
-
-### 🔹 [Project Name 3]
-**توضیح کوتاه:** ابزار ساده برای بررسی آسیب‌پذیری‌های OWASP Top 10 در برنامه‌های تحت وب.
-**نتایج یادگیری:**
-- آشنایی عمیق با حملات XSS، SQLi، CSRF
-- کار با Burp Suite و نوشتن تست‌های دستی
-
-*می‌تونی پروژه‌های بیشتری اضافه کنی.*
-
----
-
-## 📊 آمار گیت‌هاب
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="Streak" />
-</p>
-
----
-
-## 🎓 مدارک و گواهینامه‌ها
-
-> **بخش خالی – فقط مدارک واقعی خودت را اضافه کن**
-
-| نام مدرک | سازمان صادرکننده | سال |
-|-----------|------------------|------|
-| [مثلاً CompTIA Security+] | [CompTIA] | [2024] |
-| [مثلاً Splunk Core Certified User] | [Splunk] | [2023] |
-
----
-
-## ✍️ مقالات فنی
-
-- [عنوان مقاله ۱ – لینک]  
-- [عنوان مقاله ۲ – لینک]  
-- [عنوان مقاله ۳ – لینک]
-
----
 
 ## 🗺️ نقشه راه یادگیری فعلی
 
@@ -161,19 +107,7 @@ AWS Pentesting, Azure AD, OAuth abuse.
 من معتقدم امنیت یک فرآیند مستمر است، نه یک محصول. رویکرد من ترکیبی از **ذهنیت مهاجم** و **دقت مدافع** است: برای طراحی دفاع مؤثر، باید طرز فکر نفوذگر را شناخت. در هر پروژه تلاش می‌کنم بین امنیت، کارایی و تجربه‌ی کاربری تعادل برقرار کنم.
 
 ---
-
-## 📫 راه‌های ارتباطی
-
-- **ایمیل:** [you@example.com](mailto:you@example.com)
-- **لینکدین:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- **توییتر:** [@yourhandle](https://twitter.com/yourhandle)
-- **وب‌سایت/بلاگ:** [yourblog.com](https://yourblog.com)
-
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 <p align="center">ساخته شده با ❤️ و تعهد به یادگیری مداوم</p>
 
