@@ -119,12 +119,7 @@ Every engagement includes a custom automation layer that reduces manual effort a
 <h1 align="center">محمد عسکری</h1>
 <h3 align="center">🔐 مهندس امنیت تهاجمی | اپراتور تیم قرمز | متخصص دیتکشن و اتوماسیون</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="لینکدین"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="توییتر"></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ایمیل"></a>
-  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="وبلاگ"></a>
-</p>
+
 
 ---
 
