@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/db6e2de3-00a1-4052-bcca-65aa175d8ac3" width="1007" height="334" alt="mohamad" />
-</p>
+<img width="1021" height="383" alt="image" src="https://github.com/user-attachments/assets/26205f7a-f41b-4166-8bd4-9fde5c26ebbc" />
+
 
 
 
@@ -106,8 +105,13 @@ TryHackMe Badges 2025-2026
 
 
 
+<img width="379" height="384" alt="image" src="https://github.com/user-attachments/assets/e7c5e1bf-c5c9-4917-bb24-d63728e3ebe8" />
 
-<img width="317" height="391" alt="1stplace" src="https://github.com/user-attachments/assets/c93d1880-eb01-42fa-9970-af004d3c488f" />
+<img width="384" height="380" alt="image" src="https://github.com/user-attachments/assets/44f90f73-b423-4e9d-ae42-cab59927b6b7" />
+
+<img width="458" height="405" alt="image" src="https://github.com/user-attachments/assets/f0ad3ac0-ce18-432e-941a-5c3460a5da3d" />
+
+
 
 
 <img width="435" height="202" alt="burp" src="https://github.com/user-attachments/assets/8867f481-5183-4e20-8ce7-16b67416d357" />
